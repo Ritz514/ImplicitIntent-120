@@ -102,7 +102,8 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![Uploading 311583672-211e7aba-238b-43d8-8f8e-0f00dd9d7164.png…]()
+
+![311583672-211e7aba-238b-43d8-8f8e-0f00dd9d7164](https://github.com/Ritz514/ImplicitIntent-120/assets/142646304/767d519c-8d90-44c3-af8f-1eb4b41035d3)
 
 
 
